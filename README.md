@@ -3,12 +3,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Riya+Sawant!;" />
 </h1>
+<img align="right" width=200 src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
-<h3 align="center">Hello! I'm Riya Sawant, driven by a deep fascination for technology. From web applications to machine learning projects, I'm always eager to learn. Let's connect, collaborate, and create something extraordinary together!</h3>
+<h3 align="left">Hello! I'm Riya Sawant, driven by a deep fascination for technology. From web applications to machine learning projects, I'm always eager to learn. Let's connect, collaborate, and create something extraordinary together!</h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **an AI-Powered application integrating NLP Algorithms**
  
