@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Riya+Sawant!;" />
 </h1>
 
-<h3 align="center">Hello! I'm Riya Sawant, driven by a deep fascination for technology. From web applications to machine learning projects, I'm always eager to learn and share. Let's connect, collaborate, and create something extraordinary together!</h3>
+<h3 align="center">Hello! I'm Riya Sawant, driven by a deep fascination for technology. From web applications to machine learning projects, I'm always eager to learn. Let's connect, collaborate, and create something extraordinary together!</h3>
 
 <br/>
 
