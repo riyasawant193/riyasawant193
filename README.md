@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=riyasawant193&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
-  <img width=325 align="center" src="https://github-readme-stats-riyasawant193.vercel.app/api/top-langs/?username=riyasawant193&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=riyasawant193)(https://github.com/riyasawant193/github-readme-stats)" alt="top languages" />
 </div>
 
 <br/><br/>
