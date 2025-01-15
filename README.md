@@ -11,9 +11,9 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **an AI-Powered application integrating NLP Algorithms**
+ 🔭 I’m currently working on **an AI-Powered application integrating Deep Learning Algorithms**
  
- 🌱 I’m currently learning **Natural Language Prcoessing and Text Analysis**
+ 🌱 I’m currently learning **Deep Learning Technologies**
 
   📫 How to reach me **riyasawant420@apsit.edu.in**
  </div>
